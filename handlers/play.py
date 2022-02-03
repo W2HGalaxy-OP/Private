@@ -163,7 +163,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥 📡",
-                            url=f"https://t.me/W2H_Userbot")
+                            url=f"https://t.me/ravan_feelings")
                ],
                [
                     InlineKeyboardButton(
@@ -172,7 +172,7 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐭𝐭𝐢𝐧𝐠 💫",
-                            url=f"https://t.me/w2h_op")
+                            url=f"https://t.me/ravan102030")
                ],
                [
                         InlineKeyboardButton(
@@ -216,7 +216,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥 📡",
-                            url=f"https://t.me/W2H_Userbot")
+                            url=f"https://t.me/ravan_feelings")
                ],
                [
                     InlineKeyboardButton(
@@ -225,7 +225,7 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐭𝐭𝐢𝐧𝐠 💫",
-                            url=f"https://t.me/w2h_op")
+                            url=f"https://t.me/ravan102030")
                ],
                [
                         InlineKeyboardButton(
@@ -255,7 +255,7 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐭𝐭𝐢𝐧𝐠 💫",
-                            url=f"https://t.me/w2h_op")
+                            url=f"https://t.me/ravan102030")
                ],
                [
                         InlineKeyboardButton(
@@ -314,7 +314,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥 📡",
-                            url=f"https://t.me/W2H_Userbot")
+                            url=f"https://t.me/ravan_feelings")
                ],
                [
                     InlineKeyboardButton(
@@ -323,7 +323,7 @@ async def play(_, message: Message):
                             
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐭𝐭𝐢𝐧𝐠 💫",
-                            url=f"https://t.me/w2h_op")
+                            url=f"https://t.me/ravan102030")
                ],
                [
                         InlineKeyboardButton(
